@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Página-1" id="RF6AmRStOAIphHv9v-tN">
-    <mxGraphModel dx="925" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,8 +137,8 @@
         <mxCell id="KD69kptLlnG3lK-9gx4v-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-2" target="KD69kptLlnG3lK-9gx4v-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="515" y="710" />
-              <mxPoint x="935" y="710" />
+              <mxPoint x="495" y="710" />
+              <mxPoint x="915" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,13 +148,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-2" value="&lt;span style=&quot;line-height: 107%; font-family: Arial, sans-serif;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;qtdRol&lt;br&gt;&amp;gt;=&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%; font-family: Arial, sans-serif;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;qtdCarteira&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="600" width="110" height="80" as="geometry" />
+          <mxGeometry x="440" y="600" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-6" value="Create&lt;div&gt;Orders_Rol&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="60" height="80" as="geometry" />
+          <mxGeometry x="600" y="600" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-8" value="Update&lt;div&gt;VC&lt;/div&gt;&lt;div&gt;OBS&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="600" width="60" height="80" as="geometry" />
+          <mxGeometry x="700" y="600" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-6" target="KD69kptLlnG3lK-9gx4v-8">
           <mxGeometry relative="1" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-13" value="Delete&lt;div&gt;Orders&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="600" width="60" height="80" as="geometry" />
+          <mxGeometry x="790" y="600" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-8" target="KD69kptLlnG3lK-9gx4v-13">
           <mxGeometry relative="1" as="geometry" />
@@ -183,15 +183,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-29" value="Select&lt;div&gt;Orders&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="60" height="80" as="geometry" />
+          <mxGeometry x="180" y="600" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910.0000000000002" y="640.1428571428572" as="targetPoint" />
+            <mxPoint x="890.0000000000002" y="640.1428571428572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-30" value="Fim Fluxo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="900" y="605" width="70" height="70" as="geometry" />
+          <mxGeometry x="880" y="605" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-32" target="KD69kptLlnG3lK-9gx4v-2">
           <mxGeometry relative="1" as="geometry" />
@@ -203,10 +203,10 @@
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-32" target="KD69kptLlnG3lK-9gx4v-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="912.6666259765625" y="700" as="targetPoint" />
+            <mxPoint x="892.6666259765625" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="355" y="710" />
-              <mxPoint x="935" y="710" />
+              <mxPoint x="335" y="710" />
+              <mxPoint x="915" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-32" value="Existe na BD?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="600" width="110" height="80" as="geometry" />
+          <mxGeometry x="280" y="600" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-2" target="KD69kptLlnG3lK-9gx4v-6">
           <mxGeometry relative="1" as="geometry" />
