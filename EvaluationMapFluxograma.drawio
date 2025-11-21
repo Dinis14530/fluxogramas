@@ -72,7 +72,7 @@
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-22" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KD69kptLlnG3lK-9gx4v-21">
           <mxGeometry x="-0.8476" y="4" relative="1" as="geometry">
-            <mxPoint x="-4" y="-2" as="offset" />
+            <mxPoint x="-4" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MTa5x2zJQwUnHdHIczWQ-18" value="Status BOM&lt;div&gt;&quot;01&quot;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -125,7 +125,7 @@
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-20" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KD69kptLlnG3lK-9gx4v-19">
           <mxGeometry x="-0.9179" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kPGjsJPGLkxH_lcZY0wQ-60" value="Existe na BD?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
