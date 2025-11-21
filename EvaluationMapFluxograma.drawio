@@ -137,14 +137,14 @@
         <mxCell id="KD69kptLlnG3lK-9gx4v-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KD69kptLlnG3lK-9gx4v-2" target="KD69kptLlnG3lK-9gx4v-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="495" y="710" />
-              <mxPoint x="915" y="710" />
+              <mxPoint x="495" y="720" />
+              <mxPoint x="915" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-48" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KD69kptLlnG3lK-9gx4v-44">
           <mxGeometry x="-0.9544" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-2" value="&lt;span style=&quot;line-height: 107%; font-family: Arial, sans-serif;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;qtdRol&lt;br&gt;&amp;gt;=&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 107%; font-family: Arial, sans-serif;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;qtdCarteira&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -205,14 +205,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="892.6666259765625" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="335" y="710" />
-              <mxPoint x="915" y="710" />
+              <mxPoint x="335" y="720" />
+              <mxPoint x="915" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-47" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KD69kptLlnG3lK-9gx4v-45">
           <mxGeometry x="-0.9657" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KD69kptLlnG3lK-9gx4v-32" value="Existe na BD?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
